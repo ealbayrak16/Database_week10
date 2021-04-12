@@ -15,3 +15,5 @@ Your tasks:
 -Create an entity relationship diagram where you display all these information graphically.
 
 You can use dbdesigner.net for this task. Below is an example ERD. Try to come up with a similar end result. Good luck!
+
+![alt text](https://github.com/InfotechAcademy/Database_week10/blob/main/erd-sample.png)
